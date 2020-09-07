@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/josefmarcc/3SemWeek37.svg?branch=master)](https://travis-ci.org/josefmarcc/3SemWeek37)
 
 Ultra simple Java Project meant for a Travis introduction
 
